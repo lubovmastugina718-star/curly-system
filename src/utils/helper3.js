@@ -1,4 +1,4 @@
-// Utility functions for repos_hist_curly-system_20250609
+// Utility functions for repos_hist_curly-system_20250717
 export function formatDate(date) {
     return new Date(date).toLocaleDateString();
 }
