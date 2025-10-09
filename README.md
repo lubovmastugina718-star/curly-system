@@ -9,3 +9,7 @@ Fix null pointer
 ## Update
 
 Add type hints
+
+## Update
+
+Add type hints
