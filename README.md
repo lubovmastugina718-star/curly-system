@@ -13,3 +13,7 @@ Add type hints
 ## Update
 
 Add type hints
+
+## Update
+
+Update package.json
