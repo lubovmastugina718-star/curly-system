@@ -17,3 +17,7 @@ Add type hints
 ## Update
 
 Update package.json
+
+## Update
+
+Add error recovery
