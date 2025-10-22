@@ -21,3 +21,7 @@ Update package.json
 ## Update
 
 Add error recovery
+
+## Update
+
+Update dependencies version
