@@ -29,3 +29,7 @@ Update dependencies version
 ## Update
 
 Optimize imports
+
+## Update
+
+Improve error handling
