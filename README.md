@@ -37,3 +37,7 @@ Improve error handling
 ## Update
 
 Fix formatting
+
+## Update
+
+Fix memory allocation
