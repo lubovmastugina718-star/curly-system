@@ -41,3 +41,7 @@ Fix formatting
 ## Update
 
 Fix memory allocation
+
+## Update
+
+Add error handling
