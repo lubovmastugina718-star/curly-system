@@ -45,3 +45,7 @@ Fix memory allocation
 ## Update
 
 Add error handling
+
+## Update
+
+Add new feature
