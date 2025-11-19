@@ -53,3 +53,5 @@ Add new feature
 ## Update
 
 Add input validation
+
+# Add error handling
