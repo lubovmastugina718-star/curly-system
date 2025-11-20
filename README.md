@@ -55,3 +55,7 @@ Add new feature
 Add input validation
 
 # Add error handling
+
+## Update
+
+Add type hints
