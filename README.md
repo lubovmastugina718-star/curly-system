@@ -59,3 +59,7 @@ Add input validation
 ## Update
 
 Add type hints
+
+## Update
+
+Update README with examples
