@@ -63,3 +63,5 @@ Add type hints
 ## Update
 
 Update README with examples
+
+# Fix race condition
