@@ -3,3 +3,5 @@
 Fix memory allocation
 
 # Add caching mechanism
+
+# Add logging
