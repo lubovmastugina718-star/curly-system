@@ -65,3 +65,7 @@ Add type hints
 Update README with examples
 
 # Fix race condition
+
+## Update
+
+Add retry logic
