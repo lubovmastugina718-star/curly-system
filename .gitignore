@@ -7,3 +7,5 @@ node_modules/
 # Fix data parsing
 
 # Fix linting errors
+
+# Add error recovery
