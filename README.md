@@ -69,3 +69,7 @@ Update README with examples
 ## Update
 
 Add retry logic
+
+## Update
+
+Fix linting errors
